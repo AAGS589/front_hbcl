@@ -16,6 +16,11 @@
     width: 10%;
     height: 100vh;
 }
+
+.icon-menu{
+    color: #9C2424;
+
+}
 .log-out {
     transform: translateY(211px);
 }
