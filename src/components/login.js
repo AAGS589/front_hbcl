@@ -23,7 +23,7 @@ class Login extends React.Component{
                                placeholder={'Ingrese su contraseña'}/>
                     </div>
                     <div className="formulario">
-                        <Link to='/menu'>
+                        <Link to='/register'>
                             <button type="button" className="btn-login">Iniciar sesión</button>
                         </Link>
                     </div>
