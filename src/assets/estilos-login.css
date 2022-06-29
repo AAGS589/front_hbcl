@@ -39,6 +39,9 @@
 .btn-login{
     background: #9C2424;
     width: 100%;
+    height: 50px;
     color: white;
+    border: none;
+    border-radius: 50px;
 }
 
